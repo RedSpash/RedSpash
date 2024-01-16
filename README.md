@@ -1,4 +1,5 @@
-### Hi there 👋
+### ⭐ Discord bot developer
+### 🖥️ Minecraft plugin developer [1.8 - 1.20]
 
 <!--
 **RedSpash/RedSpash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
