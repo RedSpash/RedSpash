@@ -3,8 +3,8 @@
 ## À propos de moi ℹ️
 
 - 🌱 Passionné par l'informatique.
-- 💼 
-- 📚 
+- 💼 Actuellement en 2ème année de BUT informatique.
+- 📚 J'adore apprendre de nouvelles choses. 
 
 ## Stack Technologique 💻
 
