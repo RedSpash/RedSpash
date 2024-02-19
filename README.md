@@ -3,8 +3,8 @@
 ## À propos de moi ℹ️
 
 - 🌱 Passionné par l'informatique.
-- 💼 Développeur logiciel en herbe.
-- 📚 Actuellement en train d'apprendre de nouvelles technologies et langages.
+- 💼 
+- 📚 
 
 ## Stack Technologique 💻
 
