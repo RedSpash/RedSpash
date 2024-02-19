@@ -27,6 +27,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003545?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frameworks et Bibliothèques 🛠️
 
