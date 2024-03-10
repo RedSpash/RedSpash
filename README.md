@@ -47,6 +47,6 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Projets 🚀
-
+- 🚀 [Plugin minecraft, Mode de jeu Murder](https://github.com/RedSpash/Red_Murder-2.0)
 - 🚀 [Projet principal de plugin Minecraft en Java](https://github.com/RedSpash/DeadPVP-Core)
 - 🚀 [Plugin lobby Minecraft en Java](https://github.com/RedSpash/DeadPVP-Lobby-2)
